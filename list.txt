@@ -1,1 +1,5 @@
-Mitya Fedya
+<<<<<<< HEAD
+Mitya
+=======
+Fedya
+>>>>>>> feature/listFedya
